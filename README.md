@@ -52,3 +52,6 @@ Integrate an actual backend for the contact form.
 Include more animations and transitions for a dynamic user experience.
 License
 This project is licensed under the MIT License. Feel free to use and modify it for your personal or professional use.
+
+FIND THE PHOTO OF OUTPUT IN REPO
+
